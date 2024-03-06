@@ -8,7 +8,7 @@ I have studied a computer science at Silpakorn universiry .I'm a third-year stud
 
 * 🌍  I'm based in Bangkok , Thailand
 * ✉️  You can contact me at [nonthakon.t3@gmail.com](mailto:nonthakon.t3@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning Python , Javascript , Aws , Docker
 
 ### Skills
 
